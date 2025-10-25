@@ -57,7 +57,7 @@ Create content covering the combination of:
 
 6. **Export**
    - Downloaded the final presentation in PowerPoint format
-   - Saved as "What-I-Learned-from-the-Artificial-Intelligence-Course.pptx"
+   - Saved as "AI Course Summary Presentation.pptx"
 
 ### Blog Links Followed:
 
