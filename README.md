@@ -1,13 +1,13 @@
-# 🧠 Artificial Intelligence Course
+#  Artificial Intelligence Course
 
 ---
 
-## 📘 **Course Name:**  
+##  **Course Name:**  
 **Artificial Intelligence**
 
 ---
 
-## 🎯 **Purpose of this Course**
+##  **Purpose of this Course**
 This Artificial Intelligence course is designed to help students understand and implement AI concepts to solve real-world problems.  
 
 The course focuses on:  
@@ -19,9 +19,9 @@ The course focuses on:
 
 ---
 
-## 📚 **What I Learned from this Course**
+##  **What I Learned from this Course**
 
-### 🧩 **Theory (CSE-06133115 - 3 Credit Hours)**
+###  **Theory (CSE-06133115 - 3 Credit Hours)**
 - **AI Fundamentals:** Understanding AI problems, environments, and agents  
 - **Search Algorithms:** Breadth-First Search, Depth-First Search, Depth Limited Search, Iterative Deepening & Bidirectional Search  
 - **Heuristic Search:** A* algorithm and heuristic techniques  
@@ -31,14 +31,14 @@ The course focuses on:
 
 ---
 
-### 💻 **Lab (CSE-06133116 - 1.5 Credit Hours)**
+###  **Lab (CSE-06133116 - 1.5 Credit Hours)**
 - **Classical Search Implementation:** BFS, DFS, DLS, IDS, Bidirectional Search  
 - **Heuristic Search:** Best First Search, Beam Search, A* Algorithm Implementation  
 - **Game AI:** Minimax with Alpha-Beta Pruning  
 
 ---
 
-## ⏰ **Duration of this Course**
+##  **Duration of this Course**
 - **Theory Course:** 3 hours per week  
 - **Lab Course:** 3 hours per week  
 - **Total:** 6 hours per week  
@@ -49,13 +49,13 @@ The course focuses on:
 
 ---
 
-## 👨‍🏫 **Course Instructor**
+##  **Course Instructor**
 **Mr. Razorshi Prozzwal Talukder**  
 *Lecturer, Department of CSE, North East University Bangladesh*  
 
 ---
 
-## 🏆 **Course Learning Outcomes**
+##  **Course Learning Outcomes**
 Upon successful completion of this course, students are able to:  
 - Compare AI with human intelligence and traditional information processing, discussing its strengths, limitations, and applications to complex problems  
 - Apply problem-solving methods (informed, uninformed, local search, adversarial search, CSP, and reinforcement learning) to solve real-life problems  
@@ -64,12 +64,10 @@ Upon successful completion of this course, students are able to:
 
 ---
 
-## 🤖 **Projects and Implementations**
+##  **Projects and Implementations**
 This repository contains various AI implementations and projects including:  
 - **AI Games:** Chess AI, Tic-Tac-Toe AI, Subtraction Game AI  
 - **Algorithm Implementations:** Various search algorithms, game-playing algorithms, and optimization techniques  
 - **Practical Applications:** Real-world problem-solving using AI methodologies  
 
 ---
-
-⭐ *Developed as part of the Artificial Intelligence Course at North East University Bangladesh.*
