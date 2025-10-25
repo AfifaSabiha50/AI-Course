@@ -43,10 +43,6 @@ The course focuses on:
 - **Lab Course:** 3 hours per week  
 - **Total:** 6 hours per week  
 
-**Prerequisites:**  
-- Data Structures and Algorithms (CSE-06131211)  
-- Algorithm Design and Analysis Lab (CSE-06132114)  
-
 ---
 
 ##  **Course Instructor**
