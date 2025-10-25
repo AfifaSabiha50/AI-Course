@@ -149,7 +149,7 @@ This repository contains implementations of various AI and graph search algorith
 
 #### Input & Output Example:
 
-![Best-First Search Input & Output](Screenshots/best.png)
+![Best-First Search Input & Output](Screenshots/best first.png)
 
 ---
 
