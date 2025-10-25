@@ -3,20 +3,20 @@
 
 This README describes the step-by-step process of creating educational content for the AI course using AI tools, as per the assignment requirements.
 
-## 📋 Assignment Deliverables
+##  Assignment Deliverables
 
 - **Presentation Slides**: `AI Course Summary Presentation.pptx` (10-12 slides)
 - **Course Summary Video**: `AI Course Summary Video.mp4` (1+ minute duration)
 
 
-## 📝 Assignment Requirements
+##  Assignment Requirements
 
 Create content covering the combination of:
 
 - **Theory**: Topics learned in the AI course
 - **Lab Tasks**: Algorithm implementations and AI games developed
 
-## 🎯 How I Created the Presentation Using Gamma
+##  How I Created the Presentation Using Gamma
 
 **Tool Used**: [Gamma](https://gamma.app/)
 
@@ -63,7 +63,7 @@ Create content covering the combination of:
 
 - [How to Make a Presentation with Gamma AI](https://www.youtube.com/watch?v=V0lGbone1fM)
 
-## 🎥 How I Created the Video Using InVideo
+##  How I Created the Video Using InVideo
 
 **Tool Used**: [InVideo](https://invideo.io/)
 
