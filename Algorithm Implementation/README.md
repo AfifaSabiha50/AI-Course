@@ -149,7 +149,7 @@ This repository contains implementations of various AI and graph search algorith
 
 #### Input & Output Example:
 
-![Best-First Search Input & Output](Screenshots/best first.png)
+![Best-First Search Input & Output](Screenshots/best_first.png)
 
 ---
 
@@ -178,7 +178,7 @@ This repository contains implementations of various AI and graph search algorith
 
 #### Input & Output Example:
 
-![A* Search Input & Output](Screenshots/Astar.png)
+![A* Search Input & Output](Screenshots/A_star.png)
 
 ---
 
@@ -295,7 +295,7 @@ This repository contains implementations of various AI and graph search algorith
 
 #### Input & Output Example:
 
-![Alpha-Beta Pruning Input & Output](Screenshots/alphabeta.png)
+![Alpha-Beta Pruning Input & Output](Screenshots/alpha_beta.png)
 
 ---
 
