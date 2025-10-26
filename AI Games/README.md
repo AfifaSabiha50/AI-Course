@@ -64,7 +64,7 @@ Algorithm Summary
 Getting Started
 ---
 
-To run any game:
+## To run any game:
 
 1. Ensure Python 3.x is installed.
 
@@ -72,5 +72,7 @@ To run any game:
    
      python filename.py
    
-4. Enjoy playing against your AI opponent!
+3. Enjoy playing against your AI opponent!
+
+---
 
