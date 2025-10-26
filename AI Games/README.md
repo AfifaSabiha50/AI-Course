@@ -52,10 +52,14 @@ Features
 ---
 Folder Structure 
 ---
-
+AI Games/
+  Tic-tac-toe/
+	• tic-tac-toe.py
+	• Screenshot/
+		tic-tac-toe.png
+	• README.md
 AI-Games/
-│
-├── TicTacToe/
+ TicTacToe/
 │   ├── tic_tac_toe.py
 │   ├── Screenshot/
 │   │   └── tic-tac-toe.png
@@ -94,6 +98,7 @@ To run any game:
 1. Ensure Python 3.x is installed.
 
 2. Run the corresponding .py file using:
+   
      python filename.py
    
 4. Enjoy playing against your AI opponent!
