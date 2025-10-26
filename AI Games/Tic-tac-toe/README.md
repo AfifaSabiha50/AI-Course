@@ -52,7 +52,7 @@
  The AI uses the **Minimax Algorithm**:  
  - A recursive algorithm to choose the optimal move.  
  - The AI evaluates all possible moves to maximize its chances of winning and minimize the player's chances.  
- - Guarantees perfect play, meaning it will never lose.
+ - Guarantees perfect play, meaning it will never lose, it's goal is to either win or at least force a draw!
 
 ---
 
