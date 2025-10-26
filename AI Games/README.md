@@ -50,30 +50,6 @@ Features
 4.  Simple to run and play — perfect for beginners exploring game AI
 
 ---
-Folder Structure 
----
-
-AI-Games/
-│
-├── TicTacToe/
-│ ├── tic_tac_toe.py
-│ ├── Screenshot/
-│ │ └── tic-tac-toe.png
-│ └── README.md
-│
-├── Chess/
-│ ├── chess_procedural.py
-│ ├── Screenshot/
-│ │ └── chess.png
-│ └── README.md
-│
-├── SubtractionGame/
-│ ├── subtraction_game.py
-│ ├── Screenshot/
-│ │ └── subtraction.png
-│ └── README.md
-│
-└── README.md ← (This main file)
 ---
 Algorithm Summary
 ---
