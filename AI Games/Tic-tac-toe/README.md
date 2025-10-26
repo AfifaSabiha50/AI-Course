@@ -1,8 +1,8 @@
-# 🎮 Tic Tac Toe Game (AI - Minimax)
+#  Tic Tac Toe Game (AI - Minimax)
 
 ---
 
-> ## 📝 Description
+> ##  Description
 > 
 > This is a Tic Tac Toe game developed in Python using **Tkinter** for the GUI.  
 > The game allows a human player to play against an AI opponent that uses the **Minimax algorithm** for optimal moves.  
@@ -10,7 +10,7 @@
 
 ---
 
-> ## ⚙️ How to Run
+> ##  How to Run
 > 
 > 1. Make sure Python is installed on your system (Python 3.x recommended).  
 > 2. Install **Tkinter** if not already installed (usually comes pre-installed with Python).  
@@ -26,7 +26,7 @@
 
 ---
 
-> ## 🛠️ Requirements / Prerequisites
+> ##  Requirements / Prerequisites
 > 
 > - **Python 3.x**  
 > - **Tkinter** (Python GUI library, comes with Python by default)  
@@ -34,7 +34,7 @@
 
 ---
 
-> ## 🎮 How to Play
+> ##  How to Play
 > 
 > 1. You play as **X** and the AI plays as **O**.  
 > 2. Click on any empty cell in the 3x3 grid to make your move.  
@@ -47,7 +47,7 @@
 
 ---
 
-> ## 🧠 Algorithm Used
+> ##  Algorithm Used
 > 
 > The AI uses the **Minimax Algorithm**:  
 > - A recursive algorithm to choose the optimal move.  
@@ -56,7 +56,7 @@
 
 ---
 
-> ## 📸 Screenshot
+> ##  Screenshot
 > 
 > ![Tic Tac Toe](Screenshot/tic-tac-toe.png)
 
