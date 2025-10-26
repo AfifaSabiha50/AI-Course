@@ -52,12 +52,7 @@ Features
 ---
 Folder Structure 
 ---
-AI Games/
-  Tic-tac-toe/
-	• tic-tac-toe.py
-	• Screenshot/
-		tic-tac-toe.png
-	• README.md
+
 AI-Games/
  TicTacToe/
 │   ├── tic_tac_toe.py
