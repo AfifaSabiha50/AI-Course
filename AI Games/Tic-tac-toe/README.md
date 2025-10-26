@@ -16,7 +16,7 @@
 > 2. Install **Tkinter** if not already installed (usually comes pre-installed with Python).  
 > 3. Download this repository or clone it using:
 > ```bash
-> git clone <repository-link>
+> git clone https://github.com/AfifaSabiha50/AI-Course
 > ```
 > 4. Navigate to the project directory and run:
 > ```bash
