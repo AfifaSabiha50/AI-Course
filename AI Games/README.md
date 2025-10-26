@@ -39,3 +39,62 @@ Technologies Used
 . python-chess (only for Chess game)
 
 . Math library (for AI calculations)
+
+---
+Features
+---
+
+1.  User-friendly GUI for all games
+2.  AI opponent with Minimax or Alpha-Beta pruning
+3.  Real-time interaction and visual feedback
+4.  Simple to run and play — perfect for beginners exploring game AI
+
+---
+Folder Structure 
+---
+
+AI-Games/
+│
+├── TicTacToe/
+│   ├── tic_tac_toe.py
+│   ├── Screenshot/
+│   │   └── tic-tac-toe.png
+│   └── README.md
+│
+├── Chess/
+│   ├── chess_procedural.py
+│   ├── Screenshot/
+│   │   └── chess.png
+│   └── README.md
+│
+├── SubtractionGame/
+│   ├── subtraction_game.py
+│   ├── Screenshot/
+│   │   └── subtraction.png
+│   └── README.md
+│
+└── README.md  ← (this file)
+
+---
+Algorithm Summary
+---
+
+| Game             | Algorithm Used                   | Purpose                      |
+| ---------------- | -------------------------------- | ---------------------------- |
+| Tic Tac Toe      | **Minimax**                      | Optimal move prediction      |
+| Chess            | **Minimax + Alpha-Beta Pruning** | Efficient AI decision-making |
+| Subtraction Game | **Minimax**                      | Winning strategy computation |
+
+---
+Getting Started
+---
+
+To run any game:
+
+1. Ensure Python 3.x is installed.
+
+2. Run the corresponding .py file using:
+     python filename.py
+   
+4. Enjoy playing against your AI opponent!
+
