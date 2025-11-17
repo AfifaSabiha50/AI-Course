@@ -27,21 +27,25 @@ The course focuses on:
 - **Heuristic Search:** A* algorithm and heuristic techniques  
 - **Local Search:** Hill Climbing, Best First Search, Genetic Programming  
 - **Game Playing:** Minimax algorithm with Alpha-Beta pruning  
-- **Constraint Satisfaction Problems:** Backtracking solutions, solving problems like map coloring and cryptarithmetic puzzles  
+- **Constraint Satisfaction Problems:** Backtracking solutions, solving problems like map coloring and cryptarithmetic puzzles
+- **Propositional Logic:** Learned to evaluate logical expressions using truth tables and logical connectives
+- **Normal Form:** learned converting logical expressions into CNF/DNF to support structured reasoning
+- **Quantifiers:** learned using universal (∀) and existential (∃) quantifiers to express First-Order Logic statements.
 
 ---
 
 ###  **Lab (CSE-06133116 - 1.5 Credit Hours)**
 - **Classical Search Implementation:** BFS, DFS, DLS, IDS, Bidirectional Search  
 - **Heuristic Search:** Best First Search, Beam Search, A* Algorithm Implementation  
-- **Game AI:** Minimax with Alpha-Beta Pruning  
+- **Game AI:** Minimax with Alpha-Beta Pruning
+- **AI Agent:** learned how agents sense, think, and act by developing simple Python-based intelligent agents 
 
 ---
 
 ##  **Duration of this Course**
 - **Theory Course:** 3 hours per week  
 - **Lab Course:** 3 hours per week  
-- **Total:** 6 hours per week  
+- **Total:** 6 hours per week/6 months  
 
 ---
 
@@ -64,6 +68,7 @@ Upon successful completion of this course, students are able to:
 This repository contains various AI implementations and projects including:  
 - **AI Games:** Chess AI, Tic-Tac-Toe AI, Subtraction Game AI  
 - **Algorithm Implementations:** Various search algorithms, game-playing algorithms, and optimization techniques  
-- **Practical Applications:** Real-world problem-solving using AI methodologies  
+- **Practical Applications:** Real-world problem-solving using AI methodologies
+- **AI Agent:** Developed a Python-based intelligent agent that senses inputs, applies rule-based reasoning, and performs appropriate actions.
 
 ---
